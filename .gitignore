@@ -1,0 +1,9 @@
+# Initially taken from Github's Python gitignore file
+
+# Image Files
+images/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
